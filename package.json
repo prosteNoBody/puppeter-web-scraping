@@ -1,0 +1,21 @@
+{
+    "name": "tatka-vestnik",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "fs": "0.0.1-security",
+        "html-docx-js": "^0.3.1",
+        "pkg": "^4.4.4",
+        "puppeteer": "^2.1.1",
+        "puppeteer-extra": "^3.1.9",
+        "puppeteer-extra-plugin-stealth": "^2.4.9",
+        "readline-sync": "^1.4.10"
+    }
+}
